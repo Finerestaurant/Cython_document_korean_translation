@@ -4,7 +4,7 @@
     * [Cython 개요](https://wikidocs.net/167676)
     * [Cython 설치](https://wikidocs.net/167660)
     * Cython 코드 빌드하기
-    * 정적 타이핑을 통해 코드 속도 향상시키기
+    * 정적 타입 선언을 통해 코드 속도 향상시키기
 * 튜토리얼
     * 기본 튜토리얼
     * C 함수 불러오기 
